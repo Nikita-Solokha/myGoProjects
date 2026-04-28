@@ -42,6 +42,9 @@ Go, PostgreSQL, HTML/CSS, Bootstrap
 - templates
 - архитектура слоёв
 
+## Код
+https://github.com/Nikita-Solokha/snippetbox
+
 ---
 
 # 📌 JWT Auth API
@@ -66,4 +69,4 @@ Go, PostgreSQL, Redis, RabbitMQ, Docker, Kubernetes, Git, Linux
 
 # 📬 Контакты
 
-Telegram / Email
+Telegram: @nikita_solokha/ Email: nikitasoloha166@gmail.com
