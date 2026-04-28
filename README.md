@@ -25,6 +25,8 @@ Go, gRPC, REST, RabbitMQ, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, Web (N
 - RabbitMQ (event-driven architecture)
 - gRPC между сервисами
 
+
+## Код: https://github.com/Nikita-Solokha/Go_Doc_Kub
 ---
 
 # 📌 Snippetbox
